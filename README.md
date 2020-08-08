@@ -1,1 +1,1 @@
-Jav Solutions to Questions 1 and 2 of Leetcode's Biweekly contest 32.
+Java solutions to Questions 1 and 2 of Leetcode's Biweekly contest 32.
